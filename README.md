@@ -67,16 +67,6 @@ Durante o desenvolvimento deste projeto, aprimorei meus conhecimentos em:
 
 ---
 
-## 💻 Demonstração
-
-👉 [Clique aqui para ver o projeto online](https://github.com/marimagalhaeslopes/pesquisa-usuario)
-
----
-
-
-
----
-
 ## 🙋‍♀️ Sobre mim
 
 Me chamo **Mari Magalhães Lopes** e estou em transição de carreira para a área de tecnologia.  
