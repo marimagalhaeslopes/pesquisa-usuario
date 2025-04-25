@@ -1,0 +1,36 @@
+body {
+  background: radial-gradient(circle at left, #001f3f, #111);
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+}
+
+.logo-text {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.logo-text span {
+  color: white;
+}
+
+.logo-text strong {
+  color: #007bff;
+
+.input-group .form-control {
+  border-radius: 10px 0 0 10px;
+  padding: 0.75rem 1rem;
+}
+
+.input-group .btn {
+  border-radius: 0 10px 10px 0;
+}
+
+.search-box {
+  background: black;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 0 30px rgba(0, 123, 255, 0.3);
+}
+}
