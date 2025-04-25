@@ -2,7 +2,6 @@
 
 Este projeto foi desenvolvido como desafio final do curso **Innovation Class**, com o objetivo de criar uma aplicação em **React** que consome a API pública do GitHub e exibe as informações de um usuário a partir da busca.
 
-![Capa do Projeto](./d124fd48-fd08-4ae1-8d33-ec6216129f2d.png)
 
 ---
 
@@ -70,13 +69,11 @@ Durante o desenvolvimento deste projeto, aprimorei meus conhecimentos em:
 
 ## 💻 Demonstração
 
-👉 [Clique aqui para ver o projeto online](https://github.com/marimagalhaeslopes/pesquisa-usuario-github)
+👉 [Clique aqui para ver o projeto online](https://github.com/marimagalhaeslopes/pesquisa-usuario)
 
 ---
 
-## 📸 Screenshot
 
-![Interface](./d124fd48-fd08-4ae1-8d33-ec6216129f2d.png)
 
 ---
 
